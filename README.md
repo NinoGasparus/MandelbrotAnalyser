@@ -35,8 +35,8 @@ Usefull controlls:
   -**H**: toggles the visibility of the orbit, of the point at the mouse currsor, 
 
   -**G**: outputs value n, maxItteration number of times:
-      -n will be -1 if current distance of zn from 0,0 is smaller than the previous one 
-      -n will be 1, if current distance of zn from 0,0 is greather than previous one
+    <br>  -n will be -1 if current distance of zn from 0,0 is smaller than the previous one 
+    <br>  -n will be 1, if current distance of zn from 0,0 is greather than previous one
 
   -**J**: redraws the set, keeping all settings. 
   
